@@ -43,6 +43,6 @@ Open a new bash terminal in the script directory, and run any standard input fro
 
     cat 15_cards.txt | python.exe set_game.py
 
-New/custom card inputs can be ran as well, provided the format from the 2 examples is respected.
+New/custom card inputs can be ran as well, provided the formatting from the 2 examples is followed.
 
 #
