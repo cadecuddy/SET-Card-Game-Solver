@@ -30,10 +30,10 @@ Example Set & Explanation:
 
 blue @@@, yellow @@, green @
 
-- Color: all have different colors (blue, yellow, green)
-- Symbol: all same symbols (A)
-- Shading: all same shading (symbol case)
-- Number: all different number of symbols (3, 2, 1)
+- Color: all **different** colors (blue, yellow, green)
+- Symbol: all **same** symbols (A)
+- Shading: all **same** shading (symbol case)
+- Number: all **different** number of symbols (3, 2, 1)
 
 #
 
