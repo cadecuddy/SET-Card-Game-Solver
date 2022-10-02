@@ -1,5 +1,4 @@
 # SET Card Game Solver
-## By Cade Cuddy
 
 This Python project was made to find all possible sets given an arbitrary (81 or less) amount of SET cards.
 
